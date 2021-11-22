@@ -20,6 +20,16 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        kapt {
+
+            arguments {
+
+                arg("room.schemaLocation", "$projectDir/schemas")
+
+            }
+
+        }
     }
 
     buildTypes {
@@ -40,6 +50,7 @@ android {
 
 dependencies {
 
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     dependencies {
 
         implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"

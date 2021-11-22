@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Álcool é vida</string>
+    <string name="app_name">app name</string>
+    <string name="product">product</string>
+    <string name="empty_product_name">empty product name</string>
+    <string name="product_successfully_added">product successfully added</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">Delete</string>
+    <string name="question_delete">Are you sure you want delete?</string>
+    <string name="product_successfully_updated">Product successfully updated.</string>
+    <string name="product_successfully_deleted">Product successfully deleted.</string>
 </resources>

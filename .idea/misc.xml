@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/drawable/add.xml" value="0.2203125" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/drawable/delete.xml" value="0.2203125" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/drawable/disquete.xml" value="0.2203125" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/layout/custom_row.xml" value="0.25" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/layout/fragment_add.xml" value="0.22" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/layout/fragment_list.xml" value="0.25" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/layout/fragment_update.xml" value="0.1" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/menu/menu_add_garrafa.xml" value="0.25" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/menu/menu_add_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/j0ao_/AndroidStudioProjects/lcoolvida/app/src/main/res/menu/menu_update_delete_garrafa.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

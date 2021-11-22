@@ -3,7 +3,7 @@ package com.pm.aa.data.dao
 import androidx.lifecycle.LiveData
 import androidx.room.*
 import com.pm.aa.data.entities.Product
-
+@Dao
 interface ProductDao {
 
     @Insert(onConflict = OnConflictStrategy.IGNORE)
