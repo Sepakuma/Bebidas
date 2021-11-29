@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product">Produto</string>
+    <string name="product_successfully_added">Produto adicionado com sucesso</string>
+    <string name="empty_product_name">Por favor insira um produto</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="delete">Apagar</string>
+    <string name="question_delete">Tem a certeza que quer apagar?</string>
+    <string name="product_successfully_updated">Produto atualizado com sucesso</string>
+    <string name="product_successfully_deleted">Produto apagado com sucesso</string>
+    <string name="app_name">Garrafeira Jon</string>
+    <string name="add">Adicionar Produto</string>
+    <string name="update">Atualizar Produto</string>
+    <string name="list">Lista de Bebidas</string>
+    <string name="brand">Marca</string>
+    <string name="teor">Teor Alcoolico</string>
+</resources>
